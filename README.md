@@ -29,7 +29,7 @@ The pipeline covers the full NLP workflow:
 
 | Model               | Accuracy (Test Set) |
 |---------------------|---------------------|
-| Logistic Regression | ~77%                |
+| Logistic Regression | ~79%                |
 | Naive Bayes (tuned) | ~82%                |
 | SVM (tuned)         | ~81%                |
 
